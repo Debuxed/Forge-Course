@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "astralmod:block/cobalt_ore"
+  }
+}
