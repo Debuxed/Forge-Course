@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "astralmod:cobalt_block",
+    "astralmod:raw_cobalt_block",
+    "astralmod:cobalt_ore",
+    "astralmod:deepslate_cobalt_ore"
+  ]
+}

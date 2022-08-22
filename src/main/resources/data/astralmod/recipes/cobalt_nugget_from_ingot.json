@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "astralmod:cobalt_ingot"
+    }
+  ],
+  "result": {
+    "item": "astralmod:cobalt_nugget",
+    "count": 9
+  }
+}

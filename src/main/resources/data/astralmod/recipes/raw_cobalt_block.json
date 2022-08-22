@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "astralmod:raw_cobalt"
+    }
+  },
+  "result": {
+    "item": "astralmod:raw_cobalt_block"
+  }
+}

@@ -1,8 +1,16 @@
 {
   "item.astralmod.cobalt_ingot": "Cobalt Ingot",
   "item.astralmod.cobalt_nugget": "Cobalt Nugget",
+  "item.astralmod.raw_cobalt": "Raw Cobalt",
+  "item.astralmod.dowsing_rod": "Dowsing Rod",
 
   "block.astralmod.cobalt_block": "Cobalt Block",
-  "block.astralmod.cobalt_ore": "Cobalt Ore"
+  "block.astralmod.cobalt_ore": "Cobalt Ore",
+  "block.astralmod.raw_cobalt_block": "Raw Cobalt Block",
+  "block.astralmod.deepslate_cobalt_ore": "Deepslate Cobalt Ore",
+
+  "itemGroup.astralmodtab": "Astral Mod",
+
+  "item.astralmod.dowsing_rod.no_valuables": "No valuables found."
 
 }
